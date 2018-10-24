@@ -1,5 +1,8 @@
 # Notes from installation
 
+Date: 10/24/2018
+Author: Matt Casari
+
 I followed the instructions provided by PyCom to load new firmware on the 
 
 https://docs.pycom.io/
