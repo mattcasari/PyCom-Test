@@ -55,3 +55,19 @@ Change the **address** field:
 
 Was: **"address": "192.168.4.1"**<br>
 Now: **"address": "COM6"**
+
+
+## Code
+
+Once connected, I was able to run commands directly from the REPL, and also from a main.py file that I created in ./RGB-Blink/ and then hit the "Run" button on the bottom of the VSCode window.
+
+
+------
+Date: 10/25/2018
+
+## Connecting over WiFi
+
+The Adafruit password is incorrect.
+
+*Password(incorrect): www.wipy.io*<br>
+**Password(correct): www.pycom.io**
